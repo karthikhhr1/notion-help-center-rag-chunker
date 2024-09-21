@@ -1,4 +1,4 @@
-# Notion Help Center Scraper
+# Notion Help Center RAG Chunker
 
 ## Overview
 
